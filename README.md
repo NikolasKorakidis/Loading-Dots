@@ -1,1 +1,1 @@
-# Vanilla-Template
+# The simplest Loader ever
